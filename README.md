@@ -7,28 +7,28 @@ Overview: This project explores anime data using Tableau, providing interactive 
 🎭 Genre distribution
 🏆 Top-rated anime
 
-📊 Dashboard Preview
+📊 Dashboard Preview:
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/e36ddfb5-ad42-4bb1-a77a-2f86c9c3a319" />
 
-📁 Dataset
+📁 Dataset -
 Source: https://www.kaggle.com/datasets/bhavyadhingra00020/top-anime-dataset-2024
 Format: CSV / Excel
 
-⚙️ Tools Used
+⚙️ Tools Used:
 Tableau (Data visualization)
 Excel/CSV (Data preprocessing)
 
-🚀 How to Use
+🚀 How to Use:
 Download the .twbx file from this repository.
 Open it in Tableau Desktop.
 Explore the interactive visualizations!
 
-📌 Insights & Findings
+📌 Insights & Findings:
 This Dashboard is designed to provide comprehensive insights into anime trends, audience preferences, and performance metrics.
 This project helps stakeholders like streaming platforms, anime studios, and marketers make data-driven decisions regarding content creation and audience targeting.
 By visualizing data effectively, the dashboard simplifies complex datasets, making it easier to identify trends, optimize strategies, and enhance user satisfaction.
 
-📬 Contact
+📬 Contact -
 Feel free to connect:
 💼 LinkedIn: www.linkedin.com/in/devika-ravi
 
